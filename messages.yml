@@ -56,52 +56,52 @@ Messages:
   Spectator-Teleport: Du er blevet teleporteret til &b%player%
   Spectator-Teleport-Deny: Kunne ikke finde spilleren i denne arena
   Not-Enough-Coins: Ikke nok mønter!
-  Purchase-Item: Du har købt a(n) &b%item% &6x&b%amount% &6for &b%price% &6mønter!
+  Purchase-Item: Du har købt en &b%item% &6x&b%amount% &6for &b%price% &6mønter!
   Blocked-Command: Du kan ikke bruge denne SurvivalGame kommand i spillet!
   Vip-Kill-Player-Self-Message: Du har dræbt &b%target% &6og tjent &b%coins% &6mønter!
   Normal-Kill-Player-Self-Message: Du har dræbt &b%target% &6og tjent &b%coins% &6mønter!
   Player-Suicide: Du har dræbt dig selv! Flot! ;-)
-  Player-Spectate: You are now spectating the match!
-  Carepackage-Dropping: Carepackage coming in &b%seconds% &6seconds!
-  Carepackage-Drop: Carepackage has been dropped!
-  Carepackage-Cancel: Carepackage has been cancelled due to a new event!
-  Carepackage-Denied: There must be &b%height% &6free blocks above the location!
-  Sponsor-Self-Message: You sponsored the player &b%player% &6with &b%item% &6x&b%amount% &6that costed &b%cost% &6coins!
-  Sponsor-Target-Message: You are being sponsored by &b%player% &6with a(n) &b%item% &6x&b%amount%&6!
-  Coins-Restore: Your spent coins has been restored! (&b%coins%&6)!
-  No-Available-Arenas: Couldn't find any available arenas!
-  Global-Lobby-Cant-Teleport-While-In-Game: You cant do that while in a game!
-  Global-Lobby-Not-Set: Global lobby hasn't been set yet!
-  Global-Lobby-Teleport: You have been teleported to the global lobby!
-  Arena-Won-The-Vote: The map &b%arena% &6has won the voting! with &b%votes% &6votes.
-  Time-Extend: Time was extended by &b%time% &6Seconds!
-  Vote-Locked: Voting has been locked!
-  Player-Vote: You have voted for the map &b%map%
-  Time-Skip: Time was skipped to &b%seconds%&6 Seconds!
-  Server-Restart: Server you were on is restarting now!
-  Not-A-Tier-2-Chest: Couldn't find this tier 2 chest!
-  Not-A-Buyable-Kit: This kit isn't a buyable kit!
-  Kit-Already-Unlocked: You already have this kit unlocked
-  Kit-Purchase: You have purchased the kit &b%kitname% &6and lost &b%cost% &6coins! &aCongrats for your new kit
-  Join-Deny: You must have nothing in hand to use the join signs!
-Waiting-State: '&aWAITING'
-Starting-State: '&6STARTING'
-INGAME-State: '&cINGAME'
-Deathmatch-State: '&cDEATH-MATCH'
-Disabled-State: '&4DISABLED'
-Rollbacking-State: '&cROLLBACKING'
-Starting-Deathmatch-State: '&cINGAME'
-Finishing-State: '&cFINISHING'
-NotJoinable-State: '&cNot-Joinable'
-Unknown-State: '&0Unknown'
+  Player-Spectate: Du kigger nu på!
+  Carepackage-Dropping: Carepackage kommer om &b%seconds% &6sekunder!
+  Carepackage-Drop: Carepackage er kommet!
+  Carepackage-Cancel: Carepackage er blevet anulleret!
+  Carepackage-Denied: Der skal være &b%height% &6blokke fri over dig!
+  Sponsor-Self-Message: Du har sponsoreret &b%player% &6med &b%item% &6x&b%amount% &6som kostede &b%cost% &6mønter!
+  Sponsor-Target-Message: Du er blevet sponsoreret af &b%player% &6med en &b%item% &6x&b%amount%&6!
+  Coins-Restore: Dine brugte mønter er blevet gendannet! (&b%coins%&6)!
+  No-Available-Arenas: Kunne ikke finde nogle tilgængelige arenaer!
+  Global-Lobby-Cant-Teleport-While-In-Game: Du kan ikke gøre dette inde i spillet!
+  Global-Lobby-Not-Set: Global lobby er ikke blevet indstillet!
+  Global-Lobby-Teleport: Du er blevet teleporteret til lobbyen!
+  Arena-Won-The-Vote: Mappet &b%arena% &6vandt afstemningen! med &b%votes% &6stemmer.
+  Time-Extend: Tiden blev udvidet med &b%time% &6sekunder!
+  Vote-Locked: Afstemningen er blevet låst!
+  Player-Vote: Du ha stemt på &b%map%
+  Time-Skip: Tiden blev sat frem til &b%seconds%&6 sekunder!
+  Server-Restart: Serveren du er på, er blevet genstartet!
+  Not-A-Tier-2-Chest: Kunne ikke finde denne niveau 2 kiste!
+  Not-A-Buyable-Kit: Dette kit kan ikke købes!
+  Kit-Already-Unlocked: Du har allerede låst dette kit op
+  Kit-Purchase: Du har købt kittet &b%kitname% &6og mistst &b%cost% &6mønter! &aTillykke med dit nye kit
+  Join-Deny: Du skal have en en tom hånd, for at kunne klikke på skiltet!
+Waiting-State: '&aVENTER'
+Starting-State: '&6STARTER'
+INGAME-State: '&cIGANG'
+Deathmatch-State: '&cDØDSKAMP'
+Disabled-State: '&4SLÅET-FRA'
+Rollbacking-State: '&cNULSTILLER'
+Starting-Deathmatch-State: '&cIGANG'
+Finishing-State: '&cAFSLUTTER'
+NotJoinable-State: '&cKan-ikke-joines'
+Unknown-State: '&0Ukendt??'
 Player-Death-By-Player:
-- '&c%player% &ehas been killed by &a%killer%&e!'
-- '&c%player% &ewas brutally murdered by &a%killer%&e!'
-- '&c%player% &eweapon couldn''t stand against &a%killer%&e!'
-- '&a%killer% &egave a helping hand in &c%player% &edeath!'
-- '&a%killer% &ecouldn''t resist killing &c%player%&e!'
-Player-Death-By-Falldamage: '&c%player% &efell to his death!'
-Player-Death-By-Lava: '&c%player% &ethought he can swim in lava!'
-Player-Death-By-Fire: '&c%player% &eburned to death!'
-Player-Death-By-Explosion: '&c%player% &ewas exploded into million pieces!'
-Player-Death-By-Unknown: '&c%player% &ehas been killed by &bUnknown Object!'
+- '&c%player% &eblev dræbt af &a%killer%&e!'
+- '&c%player% &eblev brutalt dræbt af &a%killer%&e!'
+- '&c%player% &evåben kunne ikke klare &a%killer%&e!'
+- '&a%killer% &ehjalp til i &c%player% &edød!'
+- '&a%killer% &ekunne ikke modstå at dræbe &c%player%&e!'
+Player-Death-By-Falldamage: '&c%player% &e faldt ned og døde! AV!'
+Player-Death-By-Lava: '&c%player% &emente at han kunne svømme i lava'
+Player-Death-By-Fire: '&c%player% &ebrændte op!'
+Player-Death-By-Explosion: '&c%player% &eblev sprunget i en million stykker!'
+Player-Death-By-Unknown: '&c%player% &eblev dræbt af et &bukendt objekt!'
