@@ -1,11 +1,11 @@
 # Messages supports color codes!
 prefix: '&3[&6SurvivalGames&3]&6 '
 scoreboard-prefix: '&e&lSG'
-scoreboard-stats: '&6Stats'
-scoreboard-kills: '&fKills: &a%kills%'
-scoreboard-money: '&fMoney: &a%money%'
-scoreboard-coins: '&fCoins: &a%coins%'
-scoreboard-wins: '&fWins: &a%wins%'
+scoreboard-stats: '&6Statestik'
+scoreboard-kills: '&fDrab: &a%kills%'
+scoreboard-money: '&fPenge: &a%money%'
+scoreboard-coins: '&fMønter: &a%coins%'
+scoreboard-wins: '&fSpil vundet: &a%wins%'
 Messages:
   No-Permission: Du har ikke tilladelse til at gøre dette!
   No-Console: Kun spillere kan bruge denne kommando!
