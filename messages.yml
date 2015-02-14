@@ -48,19 +48,19 @@ Messages:
   Winner-Grats: Tillykke, du har vundet!
   Vip-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde (x2)!
   Normal-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde!
-  Player-Win-Arena-Broadcast: The winner of the arena &b%arena% &6is &b%player%
-  Couldnt-Find-Nearby-Player-In-Radius: Couldn't find any nearby players in a radius of &b%radius%&6!
-  Item-Disabled: This item has been disabled!
-  Kit-Selected: You will get your kit items when the game begins!
-  Couldnt-Find-Kit: Couldn't find that kit!
-  Spectator-Teleport: You have been teleported to &b%player%
-  Spectator-Teleport-Deny: Couldn't find that player in your arena
-  Not-Enough-Coins: Not enough coins!
-  Purchase-Item: You have purchased a(n) &b%item% &6x&b%amount% &6for &b%price% &6Coins!
-  Blocked-Command: You cant use none SurvivalGames commands In-Game!
-  Vip-Kill-Player-Self-Message: You have killed &b%target% &6and earned &b%coins% &6Coins!
-  Normal-Kill-Player-Self-Message: You have killed &b%target% &6and earned &b%coins% &6Coins!
-  Player-Suicide: You have killed your self!
+  Player-Win-Arena-Broadcast: Vinderen af arenaen: &b%arena% &6er &b%player% Tillykke!
+  Couldnt-Find-Nearby-Player-In-Radius: Kunne ikke finde en spiller i nærheden af &b%radius%&6!
+  Item-Disabled: Denne ting er slået fra.
+  Kit-Selected: Du får dit kit når spillet starter!
+  Couldnt-Find-Kit: Kunne ikke finde dette kit!
+  Spectator-Teleport: Du er blevet teleporteret til &b%player%
+  Spectator-Teleport-Deny: Kunne ikke finde spilleren i denne arena
+  Not-Enough-Coins: Ikke nok mønter!
+  Purchase-Item: Du har købt a(n) &b%item% &6x&b%amount% &6for &b%price% &6mønter!
+  Blocked-Command: Du kan ikke bruge denne SurvivalGame kommand i spillet!
+  Vip-Kill-Player-Self-Message: Du har dræbt &b%target% &6og tjent &b%coins% &6mønter!
+  Normal-Kill-Player-Self-Message: Du har dræbt &b%target% &6og tjent &b%coins% &6mønter!
+  Player-Suicide: Du har dræbt dig selv! Flot! ;-)
   Player-Spectate: You are now spectating the match!
   Carepackage-Dropping: Carepackage coming in &b%seconds% &6seconds!
   Carepackage-Drop: Carepackage has been dropped!
