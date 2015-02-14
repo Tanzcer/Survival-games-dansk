@@ -17,14 +17,14 @@ Messages:
   Arena-Is-Disabled: Denne arena er slået fra!
   No-Spawn-Points: Kunne ikke finde startpunkter!
   No-DeathMatch-Location: Der er ingen deathmatch startpunkter i denne arena!
-  Not-Enough-Spawnpoints: The arena is unplayable because it doesn't have enough spawnpoints! (must be equal to max players)
-  Arena-Rollbacking: The arena is currently rollbacking! you cant join yet
-  Arena-Full: That arena is full!
-  Player-Join: '&b%player% &6has joined the game! (&b%arenasize%&6/&b%arenamax%&6)!'
-  Players-Till-Start: '&b%arenasize% &6Players left till the game begins!'
-  Broadcast-Start: The arena &b%arena% &6is about to start in &b%seconds% &6seconds!
-  Game-Starting: Game is starting in &b%seconds% &6Seconds!
-  Not-In-Arena: You are not in any arena to do this!
+  Not-Enough-Spawnpoints: Denne arena kan ikke spills, da der ikke er nok startpunkter!
+  Arena-Rollbacking: Denne arena nulstilles, vent et øjeblik!
+  Arena-Full: Denne arena er fuld!
+  Player-Join: '&b%player% &6joinede spillet! (&b%arenasize%&6/&b%arenamax%&6)!'
+  Players-Till-Start: '&b%arenasize% &6Spillere mangler før spillet begynder!'
+  Broadcast-Start: Denne arena &b%arena% &6is starter om &b%seconds% &6sekunder!
+  Game-Starting: Spillet starter om &b%seconds% &6sekunder!
+  Not-In-Arena: Du er ikke i en arena, og kan derfor ikke gøre dette!
   Player-Leave-In-Lobby: '&b%player% &6has left the game! (&b%arenasize%&6/&b%arenamax%&6)!'
   Player-Leave-In-Game: '&b%player% &6has been eliminated!'
   Players-Remain: '&b%arenasize% &ePLAYERS REMAIN'
