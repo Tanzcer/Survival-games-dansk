@@ -16,7 +16,7 @@ Messages:
   Game-Already-Started: Denne arena er i gang!
   Arena-Is-Disabled: Denne arena er slået fra!
   No-Spawn-Points: Kunne ikke finde startpunkter!
-  No-DeathMatch-Location: Der er ingen deathmatch startpunkter i denne arena!
+  No-DeathMatch-Location: Der er ingen dødskamps startpunkter i denne arena!
   Not-Enough-Spawnpoints: Denne arena kan ikke spills, da der ikke er nok startpunkter!
   Arena-Rollbacking: Denne arena nulstilles, vent et øjeblik!
   Arena-Full: Denne arena er fuld!
@@ -25,29 +25,29 @@ Messages:
   Broadcast-Start: Denne arena &b%arena% &6is starter om &b%seconds% &6sekunder!
   Game-Starting: Spillet starter om &b%seconds% &6sekunder!
   Not-In-Arena: Du er ikke i en arena, og kan derfor ikke gøre dette!
-  Player-Leave-In-Lobby: '&b%player% &6has left the game! (&b%arenasize%&6/&b%arenamax%&6)!'
-  Player-Leave-In-Game: '&b%player% &6has been eliminated!'
-  Players-Remain: '&b%arenasize% &ePLAYERS REMAIN'
-  Game-Cancelled-Not-Enough-Players: Game has been cancelled because it doesn't have enough players!
-  Player-Leave-Self-Message: You have left the game!
-  Kits-Disabled: Kits are disabled!
-  Cant-Buy-Or-SelectKit: You must be in an arena that hasn't started yet!
-  No-Available-Kits: Couldn't find any available kits!
-  Shop-Disabled: Shop is disabled!
-  Couldnt-Find-Player-Data: Couldn't find player data in the files!
-  Game-Start: Game has started!
-  Recivied-Kit-Items: You have recivied the kit &b%kit% &6items!
-  Game-Ending: Game ending in &b%minutes% &6minutes!
-  Chest-Refill-Warn: 'Chests will be refilled after: &b%seconds% &6seconds!'
-  Chest-Refill: All chests have been refilled!
-  Grace-Ending: 'Grace ending in: &b%seconds% &6seconds!'
-  Grace-End: Grace period has ended!
-  Game-Cancelled: Game has been cancelled!
-  DeathMatch-Starting: 'Deathmatch starting in: &b%seconds% &6seconds!'
-  Game-Ending-In-DeathMatch: Game ending in &b%seconds% &6seconds!
-  Winner-Grats: Congratulation, You have won!
-  Vip-Player-Win-Earn-Tokens: You have earned &b%coins% &6Coins For winning (x2)!
-  Normal-Player-Win-Earn-Tokens: You have earned &b%coins% &6Coins For winning!
+  Player-Leave-In-Lobby: '&b%player% &6ha forladt spillet! (&b%arenasize%&6/&b%arenamax%&6)!'
+  Player-Leave-In-Game: '&b%player% &6er blevet dræbt!'
+  Players-Remain: '&b%arenasize% &eSpillere tilbage'
+  Game-Cancelled-Not-Enough-Players: Spillet er blevet stoppet, da der ikke var nok spillere!
+  Player-Leave-Self-Message: Du har forladt spillet!
+  Kits-Disabled: Kits er slået fra!
+  Cant-Buy-Or-SelectKit: Du skal være i en arena der ikke er starte endnu!
+  No-Available-Kits: Kunne ikke finde nogle kits!
+  Shop-Disabled: Shop er slået fra!
+  Couldnt-Find-Player-Data: Kunne ikke finde spiller data i filen!
+  Game-Start: Spillet er startet!
+  Recivied-Kit-Items: Du har modtaget kittet: &b%kit%!
+  Game-Ending: Spillet slutter om &b%minutes% &6minutter!
+  Chest-Refill-Warn: 'Kister bliver genopfyldt om: &b%seconds% &6sekunder!'
+  Chest-Refill: Alle kister er blevet genopflydt!
+  Grace-Ending: 'Drabsfri periode ender om: &b%seconds% &6sekunder!'
+  Grace-End: Drabsfri periode er slut. DRÆB DRÆB DRÆB!!!!
+  Game-Cancelled: Spillet er blevet afsluttet!
+  DeathMatch-Starting: 'Dødskampen starter om: &b%seconds% &6sekunder!'
+  Game-Ending-In-DeathMatch: Spillet slutter om &b%seconds% &6sekunder!
+  Winner-Grats: Tillykke, du har vundet!
+  Vip-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde (x2)!
+  Normal-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde!
   Player-Win-Arena-Broadcast: The winner of the arena &b%arena% &6is &b%player%
   Couldnt-Find-Nearby-Player-In-Radius: Couldn't find any nearby players in a radius of &b%radius%&6!
   Item-Disabled: This item has been disabled!
