@@ -25,18 +25,18 @@ Messages:
   Broadcast-Start: Denne arena &b%arena% &6is starter om &b%seconds% &6sekunder!
   Game-Starting: Spillet starter om &b%seconds% &6sekunder!
   Not-In-Arena: Du er ikke i en arena, og kan derfor ikke gøre dette!
-  Player-Leave-In-Lobby: '&b%player% &6ha forladt spillet! (&b%arenasize%&6/&b%arenamax%&6)!'
+  Player-Leave-In-Lobby: '&b%player% &6har forladt spillet! (&b%arenasize%&6/&b%arenamax%&6)!'
   Player-Leave-In-Game: '&b%player% &6er blevet dræbt!'
   Players-Remain: '&b%arenasize% &eSpillere tilbage'
   Game-Cancelled-Not-Enough-Players: Spillet er blevet stoppet, da der ikke var nok spillere!
   Player-Leave-Self-Message: Du har forladt spillet!
   Kits-Disabled: Kits er slået fra!
-  Cant-Buy-Or-SelectKit: Du skal være i en arena der ikke er starte endnu!
+  Cant-Buy-Or-SelectKit: Du skal være i en arena, der endnu ikke er startet!
   No-Available-Kits: Kunne ikke finde nogle kits!
   Shop-Disabled: Shop er slået fra!
   Couldnt-Find-Player-Data: Kunne ikke finde spiller data i filen!
   Game-Start: Spillet er startet!
-  Recivied-Kit-Items: Du har modtaget kittet: &b%kit%!
+  Recivied-Kit-Items: Du har modtaget følgende kit: &b%kit%!
   Game-Ending: Spillet slutter om &b%minutes% &6minutter!
   Chest-Refill-Warn: 'Kister bliver genopfyldt om: &b%seconds% &6sekunder!'
   Chest-Refill: Alle kister er blevet genopflydt!
