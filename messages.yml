@@ -36,7 +36,7 @@ Messages:
   Shop-Disabled: Shop er slået fra!
   Couldnt-Find-Player-Data: Kunne ikke finde spiller data i filen!
   Game-Start: Spillet er startet!
-  Recivied-Kit-Items: Du har modtaget følgende kit: &b%kit%!
+  Recivied-Kit-Items: "Du har modtaget følgende kit: &b%kit%!"
   Game-Ending: Spillet slutter om &b%minutes% &6minutter!
   Chest-Refill-Warn: 'Kister bliver genopfyldt om: &b%seconds% &6sekunder!'
   Chest-Refill: Alle kister er blevet genopflydt!
@@ -48,7 +48,7 @@ Messages:
   Winner-Grats: Tillykke, du har vundet!
   Vip-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde (x2)!
   Normal-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde!
-  Player-Win-Arena-Broadcast: Vinderen af arenaen: &b%arena% &6er &b%player% Tillykke!
+  Player-Win-Arena-Broadcast: "Vinderen af arenaen: &b%arena% &6er &b%player% Tillykke!"
   Couldnt-Find-Nearby-Player-In-Radius: Kunne ikke finde en spiller i nærheden af &b%radius%&6!
   Item-Disabled: Denne ting er slået fra.
   Kit-Selected: Du får dit kit når spillet starter!
