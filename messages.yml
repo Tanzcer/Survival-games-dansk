@@ -22,7 +22,7 @@ Messages:
   Arena-Full: Denne arena er fuld!
   Player-Join: '&b%player% &6joinede spillet! (&b%arenasize%&6/&b%arenamax%&6)!'
   Players-Till-Start: '&b%arenasize% &6Spillere mangler før spillet begynder!'
-  Broadcast-Start: Denne arena &b%arena% &6is starter om &b%seconds% &6sekunder!
+  Broadcast-Start: Denne arena &b%arena% &6starter om &b%seconds% &6sekunder!
   Game-Starting: Spillet starter om &b%seconds% &6sekunder!
   Not-In-Arena: Du er ikke i en arena, og kan derfor ikke gøre dette!
   Player-Leave-In-Lobby: '&b%player% &6har forladt spillet! (&b%arenasize%&6/&b%arenamax%&6)!'
