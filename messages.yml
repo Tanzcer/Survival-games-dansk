@@ -38,8 +38,8 @@ Messages:
   Game-Start: Spillet er startet!
   Recivied-Kit-Items: "Du har modtaget følgende kit: &b%kit%!"
   Game-Ending: Spillet slutter om &b%minutes% &6minutter!
-  Chest-Refill-Warn: 'Kister bliver genopfyldt om: &b%seconds% &6sekunder!'
-  Chest-Refill: Alle kister er blevet genopflydt!
+  Chest-Refill-Warn: 'Kisterne bliver genopfyldt om: &b%seconds% &6sekunder!'
+  Chest-Refill: Alle kisterne er blevet genopflydt!
   Grace-Ending: 'Drabsfri periode ender om: &b%seconds% &6sekunder!'
   Grace-End: Drabsfri periode er slut. DRÆB DRÆB DRÆB!!!!
   Game-Cancelled: Spillet er blevet afsluttet!
