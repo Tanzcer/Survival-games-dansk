@@ -48,7 +48,7 @@ Messages:
   Winner-Grats: Tillykke, du har vundet!
   Vip-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde (x2)!
   Normal-Player-Win-Earn-Tokens: Du har tjent &b%coins% &6mønter for at vinde!
-  Player-Win-Arena-Broadcast: "Vinderen af arenaen: &b%arena% &6er &b%player% Tillykke!"
+  Player-Win-Arena-Broadcast: "Vinderen af arenaen: &b%arena% &6er &b%player% &6Tillykke!"
   Couldnt-Find-Nearby-Player-In-Radius: Kunne ikke finde en spiller i nærheden af &b%radius%&6!
   Item-Disabled: Denne ting er slået fra.
   Kit-Selected: Du får dit kit når spillet starter!
@@ -86,11 +86,11 @@ Messages:
   Join-Deny: Du skal have en en tom hånd, for at kunne klikke på skiltet!
 Waiting-State: '&aVENTER'
 Starting-State: '&6STARTER'
-INGAME-State: '&cIGANG'
+INGAME-State: '&cI GANG'
 Deathmatch-State: '&cDØDSKAMP'
-Disabled-State: '&4SLÅET-FRA'
+Disabled-State: '&4SLÅET FRA'
 Rollbacking-State: '&cNULSTILLER'
-Starting-Deathmatch-State: '&cIGANG'
+Starting-Deathmatch-State: '&cI GANG'
 Finishing-State: '&cAFSLUTTER'
 NotJoinable-State: '&cKan-ikke-joines'
 Unknown-State: '&0Ukendt??'
