@@ -1,7 +1,7 @@
 # Messages supports color codes!
 prefix: '&3[&6SurvivalGames&3]&6 '
 scoreboard-prefix: '&e&lSG'
-scoreboard-stats: '&6Statestik'
+scoreboard-stats: '&6Statistik'
 scoreboard-kills: '&fDrab: &a%kills%'
 scoreboard-money: '&fPenge: &a%money%'
 scoreboard-coins: '&fMønter: &a%coins%'
